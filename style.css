@@ -69,3 +69,12 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+.btnPos {
+  position: relative;
+  right: 65px;
+  top: 20px;
+  /* margin-top: 25px; */
+  /* margin-right: 150px; */
+
+}
